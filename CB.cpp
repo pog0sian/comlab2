@@ -1,4 +1,5 @@
 #include <iostream>
+#include "IX.cpp"
 
 class CB : public IX {
 public:
